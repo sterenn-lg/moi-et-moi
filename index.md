@@ -1,8 +1,8 @@
 # moi et moi!!
 
-##Et Haru
-![img](text.md)
+## Et Haru
+![img](img/haru.jpeg)
 
-<p> a voir <p>
+<p> a voir </p>
 
-[moi et moi](https://sterenn-lg.github.io/moi-et-moi/second_page)
+[moi et moi](second_page)
