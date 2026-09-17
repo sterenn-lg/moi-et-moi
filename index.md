@@ -2,4 +2,4 @@
 
 <p> a voir 
 
-# <p> [moi et moi](https://sterenn-lg.github.io/moi-et-moi/second_page)
+# [moi et moi](https://sterenn-lg.github.io/moi-et-moi/second_page)
