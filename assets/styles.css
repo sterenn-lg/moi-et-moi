@@ -7,14 +7,14 @@ box-sizing: border-box;
 }
 
 a {
-    color: #FF69B4;
+    color: # FF69B4;
     }
 
 /* Global Styles */
 body {
     font-family: "Fiolex Girls", sans-serif;
     background-color: #Ff1493; /* Remplacer l'image par une couleur */
-    color: #Ff1493;
+    color: # Ff1493;
     line-height: 1.6;
 }
 
@@ -31,7 +31,7 @@ box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 
 /* Header */
 header {
-background-color: #Ff1493; /* Rose */
+background-color: # Ff1493; /* Rose */
 color: #333;
 padding: 50px;
 text-align: center;
