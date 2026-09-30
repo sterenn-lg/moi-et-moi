@@ -9,7 +9,8 @@
 
 <p> Il paraît tout blanc mais il est tout le temps dehors et sa passion c'est de se mettre sous les voitures, je pense que dans une autre vie il devait être mécanicien. Quand mon frère était encore chez mes parents, il était tout le temps dans sa chambre, parce que mon frère est mécanicien, donc il sent la mécanique. </p>
 
-<p> photo </p>
+![img](img/haruherbe.jpeg)
+
 
 <p> Il lui manque sa queue parce que quand il était petit il voulait absolument sortir et on arrivait pas à l'empêcher comme il passait par tous les endroit possible et inimaginable pour aller dehors, donc un jour il s'est pris une voiture comme il avait pas encore tous les codes de l'extérieur, il à été hospitalisé 1 semaine et il à faillit mourir, maintenant il est bien en vie, il adore manger, il cours quand même partout, il a juste plus de queue. </p>
 
