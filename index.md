@@ -34,6 +34,6 @@ J'ai également un autre chat qui est + celui de ma mère. Elle s'appelle Ella. 
 
 
 ### Et un peu plus de moi et de ma vie sur cette page-là: ♥♠☻
-[moi et moi](second_page)
+[Mes voyages](second_page)
 #### encore plus sur celle-ci: ♥
 [ mes centres d'intérêt](third_page)
