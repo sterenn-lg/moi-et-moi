@@ -10,6 +10,7 @@
 <p> J'ai eu beaucoup de chats tout au long de ma vie et je ne pourrais pas vivre sans 
 
 ![img](img/harudanscarton.jpg)
+
   
 #### Les films et séries
 <p> Depuis quelques années je suis fan de la série Wednesday par Tim Burton.</p>
