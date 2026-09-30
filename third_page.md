@@ -8,7 +8,7 @@
 ![img](img/shark.jpg)
 
 # les chats aussi du coup comme on peut le voir
-<p> J'ai eu beaucoup de chats tout au long de ma vie et je ne pourrais pas vivre sans </p></p>
+<p> J'ai eu beaucoup de chats tout au long de ma vie et je ne pourrais pas vivre sans </p> 
 
 ![img](img/harudanscarton.jpeg)
 
