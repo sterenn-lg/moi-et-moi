@@ -13,6 +13,7 @@
   
 #### Les films et séries
 <p> Depuis quelques années je suis fan de la série Wednesday par Tim Burton.</p>
+
 ![img](img/wednesdaynb.jpg)
 
 <p> Je compte également faire mon mémoire sur cette série et plus particulièrement sur la relation des deux personnages principaux et comment celle-ci peut s'inscrire dans un registre queer. </p>
@@ -26,6 +27,7 @@
 <p> J'ai toujours collectionné des poupées Monster High depuis que je suis petite. J'ai une petite collection car les prix sont chers et augmentent de plus en plus, mais j'en suis fan. Maintenant je collectionne également des petites figurines Hirono par Pop Mart, qui envahissent mon appartement, je l'avoue..mais jamais plus que mes peluches. </p>
 
 ![img](img/hirono.jpg)
+
 <p> Ce n'est évidemment pas ma photo, j'en ai bien plus hihihi, ils sont cachés partout dans mon appartement!!</p>
 
 ##### La musique 
