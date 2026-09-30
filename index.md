@@ -14,7 +14,8 @@
 
 <p> Il lui manque sa queue parce que quand il était petit il voulait absolument sortir et on arrivait pas à l'empêcher comme il passait par tous les endroit possible et inimaginable pour aller dehors, donc un jour il s'est pris une voiture comme il avait pas encore tous les codes de l'extérieur, il à été hospitalisé 1 semaine et il à faillit mourir, maintenant il est bien en vie, il adore manger, il cours quand même partout, il a juste plus de queue. </p>
 
-<p> photo </p>
+![img](img/haruaspirateur.jpeg)
+
 
 J'ai également un autre chat qui est + celui de ma mère. Elle s'appelle Ella. On l'a depuis mes 15 ans, donc c'est déjà une petite mamie. Elle est toute timide, mais elle est super câline parfois.
 
