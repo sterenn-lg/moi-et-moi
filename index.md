@@ -18,12 +18,14 @@
 
 J'ai également un autre chat qui est + celui de ma mère. Elle s'appelle Ella. On l'a depuis mes 15 ans, donc c'est déjà une petite mamie. Elle est toute timide, mais elle est super câline parfois.
 
-<p> photo ella </p>
+![img](img/ellaterasse.jpeg)
+
 
 
 <p> C'est mes criminous au final quoi. </p>
 
-<p> photo </p>
+![img](img/lescriminous.jpeg)
+
 
 ### Et un peu plus de moi et de ma vie sur cette page-là: ♥♠☻
 [moi et moi](second_page)
