@@ -48,7 +48,7 @@
 
 <p> Honnêtement je n'ai pas beaucoup de photos non plus comme je suis juste allée dans un endroit que je connaissais déjà donc je ne ressentais pas le besoin de vouloir tout immortaliser. C'était quand même une expérience incroyable que j'ai pu revivre avec ma meilleure amie et j'en suis ravie.</p>
 
-![img](img/luminaireviet.jpeg)
+![img](img/IMG_6790.jpeg)
 
 # Et voilà!! 
 
