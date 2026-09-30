@@ -28,7 +28,6 @@
 <p> J'ai toujours collectionné des poupées Monster High depuis que je suis petite. J'ai une petite collection car les prix sont chers et augmentent de plus en plus, mais j'en suis fan. Maintenant je collectionne également des petites figurines Hirono par Pop Mart, qui envahissent mon appartement, je l'avoue..mais jamais plus que mes peluches. </p>
 
 ![img](img/hirono.jpeg)
-
 <p> Ce n'est évidemment pas ma photo, j'en ai bien plus hihihi, ils sont cachés partout dans mon appartement!!</p>
 
 ##### La musique 
