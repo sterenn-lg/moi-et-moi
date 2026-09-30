@@ -1,7 +1,7 @@
 # mes centres d'intérêt
 ## Les requins
 
-![img](img/Meow.jpg)
+![img](img/meow.jpg)
 <p> Depuis petite, j'adore les requins et les chats pour 0 raisons particulières, ils sont juste super mignons et super drôles. Je ne suis malheureusement pas experte en la matière, mais j'ai 7 peluches de requins et un tatouage et j'adore. </p>
 
 ![img](img/shark.jpg)
@@ -15,7 +15,7 @@
 #### Les films et séries
 <p> Depuis quelques années je suis fan de la série Wednesday par Tim Burton.</p>
 
-![img](img/wednesdaynb.jpg)
+![img](img/wednesday.jpg)
 
 <p> Je compte également faire mon mémoire sur cette série et plus particulièrement sur la relation des deux personnages principaux et comment celle-ci peut s'inscrire dans un registre queer. </p>
 
