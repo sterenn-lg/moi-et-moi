@@ -7,7 +7,7 @@
 ![img](img/shark.jpg)
 
 ### les chats aussi du coup comme on peut le voir
-<p> j'ai eu beaucoup de chats tout au long de ma vie et je ne pourrais pas vivre sans 
+<p> J'ai eu beaucoup de chats tout au long de ma vie et je ne pourrais pas vivre sans 
 
 ![img](img/harudanscarton.jpg)
   
@@ -32,8 +32,8 @@
 
 ##### La musique 
 
-<p> Mes parents m'ont fait grandir dans une culture un peu rock, on va dire, même mes berceuses l'étaient, et j'ai donc évidemment succombé au phénomène. À mes 15 ans, j'ai découvert Billie Eilish et je la suis depuis. J'adore ses musiques depuis très longtemps et mes proches savent à quel point je suis fan! J'ai même réussit à faire Brest-Paris aller-retour entre deux partiels de rattrapages pour aller la voir...( j'ai attendue très longtemps aussi, faut m'excuser ahaha).</p>
+<p> Mes parents m'ont fait grandir dans une culture un peu rock, on va dire, même mes berceuses l'étaient, et j'ai donc évidemment succombé au phénomène. À mes 15 ans, j'ai découvert Billie Eilish et je la suis depuis. J'adore ses musiques depuis très longtemps et mes proches savent à quel point je suis fan! J'ai même réussi à faire Brest-Paris aller-retour entre deux partiels de rattrapage pour aller la voir… (j'ai attendu très longtemps aussi, faut m'excuser ahaha).</p>
 
-![img](img/billie eilish.jpg)
+![img](img/billieeilish.jpg)
 
 <p> Toujours pas ma photo, mais j'étais bien à ce concert, juste beaucoup plus loin et occupée à fangirler ahahaha!!</p>
