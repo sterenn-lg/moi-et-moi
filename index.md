@@ -4,6 +4,7 @@
 <p> J'ai pu faire pas mal de choses dans ma vie et mon rêve était de voyager, en Asie encore plus, donc j'ai pu partir à deux reprises pour diverses raisons que je te laisse découvrir en deuxième partie. </p>
 
 <p> J'adore les films, séries, la musique, les chats et surtout mon chat </p>
+
 ## Haru, mon fils.
 ![img](img/haru.jpeg)
 
@@ -16,6 +17,7 @@
 
 ![img](img/haruaspirateur.jpeg)
 
+### Et Ella!!!!
 
 J'ai également un autre chat qui est + celui de ma mère. Elle s'appelle Ella. On l'a depuis mes 15 ans, donc c'est déjà une petite mamie. Elle est toute timide, mais elle est super câline parfois.
 
